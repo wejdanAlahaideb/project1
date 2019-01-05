@@ -1,0 +1,29 @@
+=====================
+Most visited articles 
+=====================
+
+Candidate is jerk, alleges rival - 817768 views
+Bears love berries, alleges bear - 732922 views
+Bad things gone, say good people - 649219 views
+Trouble for troubled troublemakers - 563931 views
+Balloon goons doomed - 563678 views
+Media obsessed with bears - 563504 views
+Goats eat Google's lawn - 479121 views
+There are a lot of bears - 479121 views
+
+
+=================================
+Authors of Most visited articles 
+=================================
+
+Ursula La Multa - 2254668 views
+Rudolf von Treppenwitz - 1381699 views
+Anonymous Contributor - 649219 views
+Markoff Chaney - 563678 views
+
+
+==================================
+Days with error ratio more than 1% 
+==================================
+
+2016-07-17 - 2.26% errors

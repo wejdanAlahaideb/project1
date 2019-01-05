@@ -1,0 +1,13 @@
+for this project there are two python files:-
+- news.py
+- newsDB.py: code responsiple to fetch records from new database
+- report.txt: a sample of the results that i got
+
+To see results go to http://localhost:8000/ then after page is loaded you will have a text file with name (report.txt) that contains a full report:-
+1- articles with thier views sorted by most visted articles first
+2- authors of that articles sorted by the author with most visited articles
+3- days where the error retio exceeded 1% from total request in that day
+
+
+
+
