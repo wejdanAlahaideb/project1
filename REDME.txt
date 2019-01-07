@@ -1,12 +1,23 @@
 for this project there are two python files:-
 - news.py
-- newsDB.py: code responsiple to fetch records from new database
-- report.txt: a sample of the results that i got
+- newsDB.py: code responsible to fetch records from new database
+- report.txt: a sample of the report
 
-To see results go to http://localhost:8000/ then after page is loaded you will have a text file with name (report.txt) that contains a full report:-
-1- articles with thier views sorted by most visted articles first
+Instructions:-
+1- Clone vagrant machine from repository: git clone https://github.com/udacity/fullstack-nanodegree-vm/tree/master/vagrant
+2- Navigate to vagrant folder
+3- run vagrant up
+4- run vagrant ssh
+5- run cd /vagrant
+6- clone project repository using: git clone https://github.com/wejdanAlahaideb/project1.git
+7- Navigate to Project1 folder
+8- Download news.sql from: https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
+9- Run python news.py
+
+After running the news.python you will get a report on log similar to the text file named (report.text)
+1- articles with their views sorted by most visited articles first
 2- authors of that articles sorted by the author with most visited articles
-3- days where the error retio exceeded 1% from total request in that day
+3- days where the error ratio exceeded 1% from total request in that day
 
 
 
