@@ -6,18 +6,19 @@ for this project there are two python files:-
 Instructions:-
 1- Clone vagrant machine from repository: git clone https://github.com/udacity/fullstack-nanodegree-vm/tree/master/vagrant
 2- Navigate to vagrant folder
-3- run vagrant up
-4- run vagrant ssh
-5- run cd /vagrant
-6- clone project repository using: git clone https://github.com/wejdanAlahaideb/project1.git
+3- Run vagrant up
+4- Run vagrant ssh
+5- Run cd /vagrant
+6- Clone project repository using: git clone https://github.com/wejdanAlahaideb/project1.git
 7- Navigate to Project1 folder
-8- Download news.sql from: https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
+8- Download newsdata.sql from: https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
+9- Populate database: psql -d news -f newsdata.sql
 9- Run python news.py
 
 After running the news.python you will get a report on log similar to the text file named (report.text)
-1- articles with their views sorted by most visited articles first
-2- authors of that articles sorted by the author with most visited articles
-3- days where the error ratio exceeded 1% from total request in that day
+1- The top 3 most visited articles with their views
+2- Authors of the articles sorted by the views of their articles
+3- Days where the error ratio exceeded 1% from total requests
 
 
 
